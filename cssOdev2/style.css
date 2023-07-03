@@ -1,0 +1,20 @@
+.grayBlock{
+    background-color: gainsboro;
+    text-align: center;
+}
+.search{
+    width: 400px;
+}
+ul{
+    list-style: none;
+}
+.blok{
+    text-align: center;
+}
+.container{
+    display: flex;  
+  
+}
+p{
+    text-align: center;
+}
